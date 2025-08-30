@@ -1,1 +1,1 @@
-# sample
+#AWS Cloud class training is not a bad idea
